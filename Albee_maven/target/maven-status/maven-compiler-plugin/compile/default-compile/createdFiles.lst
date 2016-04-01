@@ -1,0 +1,15 @@
+com\albee\DataBeans\DbconInMemory.class
+com\albee\webPages\Confirmationpage.class
+com\albee\webPages\Homepage.class
+com\albee\report\Test_report.class
+com\albee\webPages\Basepage.class
+com\albee\DataBeans\ShippingData.class
+com\albee\report\Test_report_ireport.class
+com\albee\webPages\Loginpage.class
+com\albee\report\Test_Screenshot.class
+com\albee\DataBeans\Dbcon.class
+com\albee\webPages\Productpage.class
+com\albee\DataBeans\LoginData.class
+com\albee\webPages\Checkoutpage.class
+com\albee\webPages\Paymentpage.class
+com\albee\webPages\Categorypage.class

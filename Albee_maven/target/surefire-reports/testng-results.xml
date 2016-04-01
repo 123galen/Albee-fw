@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.albee.testpage.Test_login" duration-ms="19661" started-at="2016-03-28T17:03:43Z" finished-at="2016-03-28T17:04:02Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="19661" started-at="2016-03-28T17:03:43Z" finished-at="2016-03-28T17:04:02Z">
+      <class name="com.albee.testpage.Test_login">
+        <test-method status="PASS" signature="Login()[pri:0, instance:com.albee.testpage.Test_login@5d624da6]" name="Login" duration-ms="19644" started-at="2016-03-28T17:03:43Z" finished-at="2016-03-28T17:04:02Z">
+        </test-method> <!-- Login -->
+      </class> <!-- com.albee.testpage.Test_login -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.albee.testpage.Test_login -->
+</testng-results>
